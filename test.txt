@@ -1,6 +1,4 @@
 version 0
-<<<<<<< HEAD
-version 2
-=======
 version 1
->>>>>>> db94ea17818e83de7992e6dcc5e3b061f2951f46
+version 2
+
