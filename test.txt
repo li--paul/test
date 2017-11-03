@@ -6,3 +6,4 @@ should be CRLF
 should be LF
 test for gerrit
 test gerrit on dev
+test gerrit on dev2
